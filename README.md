@@ -1,6 +1,6 @@
-The Hebert lab at McGill university is is centered broadly around the theme of G protein-coupled signal transduction systems. 
-These signalling systems are activated by agonists that bind to G protein-coupled receptors (GPCRs, alternatively we use the term heptahelical receptor or 7TM-Rs) 
-leading to the regulation of effector proteins (e.g. enzymes and ion channels) by a transducer. 
+The Hebert lab at McGill university is centered broadly around the theme of G protein-coupled signal transduction systems. 
+These signalling systems are activated by agonists that bind to G protein-coupled receptors (GPCRs) leading to the regulation of effector proteins (e.g. enzymes and ion channels).
+
 Some of our interests include:
 1) Novel signalling complexes and pathways associated with alternative subcellular localization of GPCRs and G proteins and how they might be involved in a rare neurodevelopmental disorder, 
 2) Designing and validating biosensors to track signalling events and allosteric modulation of GPCRs. 
